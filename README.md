@@ -1,7 +1,10 @@
 ![MasterHead](https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg?w=1800)
 <h1 align="center">Hi 👋, I'm Akash Ayyappan</h1>
 <h3 align="center">Crafting Seamless Digital Experiences, End to End</h3>
-
+<p align="center">
+  <a href="">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;Linux%20Expert;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=fffe&vCenter=true&pause=1000&size=22" /></a>
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=protodev-prog&label=Profile%20views&color=0e75b6&style=flat" alt="protodev-prog" /> </p>
 
 
