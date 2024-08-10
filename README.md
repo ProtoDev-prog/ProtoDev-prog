@@ -1,3 +1,4 @@
+![MasterHead](https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg?w=1800)
 <h1 align="center">Hi 👋, I'm Akash Ayyappan</h1>
 <h3 align="center">Crafting Seamless Digital Experiences, End to End</h3>
 
